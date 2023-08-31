@@ -1,5 +1,8 @@
-# Bots Under Construction
-Bots Under Construction is a community for bot developers, whether physical robots or digital ones. Beginners, amateurs, and experts are all welcomed. 
+<p align="center">
+<img width="200" src="https://cdn.discordapp.com/attachments/1141328000156180500/1146726936740118651/372898839_615602897444571_4347508432357532021_n-removebg-preview.png">
+</p>
+<h1 align="center">Hack the Cat</h1>
+<p align="center">Bots Under Construction is a community for bot developers, whether physical robots or digital ones. Beginners, amateurs, and experts are all welcomed. </p>
 
 **A few things about Bots Under Construction:**
 1. We make stand-alone channels / threads for every bot (Excluding voice channels)
@@ -26,4 +29,4 @@ Bots Under Construction is a community for bot developers, whether physical robo
 12. Join the server GitHub community organisation (Still growing)
 13. Have your bot updates featured in the server 
 -
-https://discord.gg/xASEtwRPta
+[![Join our Discord server!](https://invidget.switchblade.xyz/xASEtwRPta)](https://discord.gg/xASEtwRPta)
