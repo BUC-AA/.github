@@ -30,4 +30,4 @@
 12. Join the server GitHub community organisation (Still growing)
 13. Have your bot updates featured in the server 
 -
-[![Join our Discord server!](https://invidget.switchblade.xyz/xASEtwRPta)](https://discord.gg/xASEtwRPta)
+<p align="center">[![Join our Discord server!](https://invidget.switchblade.xyz/xASEtwRPta)](https://discord.gg/xASEtwRPta)</p>
