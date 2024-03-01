@@ -24,3 +24,4 @@ In Algorithm Architecture, we welcome every branch of technology. This is a more
 - Get your announcements followed. (Create a ticket sending the invite link to the server, along with the channel where you want us to add it to our server. Make sure it's an announcement channel related to your project. Only one channel per project.)
 - Participate in fun events. (We organise events regularly, and you're always welcomed to join us!)
 - Join the community [GitHub organisation](https://github.com/BUC-AA). (Our organisation is still growing, but we hope to share open-source projects of anything appropriate! You'll also get the `@GitHub Contributor` role.)
+
