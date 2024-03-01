@@ -1,5 +1,5 @@
 <p align="center">
-<img width="200" src="https://media.discordapp.net/attachments/1146406609094967337/1213117823262396436/622A25A4-3B0B-49DC-9875-1994BB0A7264-modified.png?ex=65f44f03&is=65e1da03&hm=c0abd47bdbfdf492628e0e386c23db8e82c682534dcc27447dbc1253dd19a3bf&=&format=webp&quality=lossless&width=662&height=662">
+<img width="200" src="https://media.discordapp.net/attachments/1146406609094967337/1213118872161361971/image-modified.png?ex=65f44ffd&is=65e1dafd&hm=ef20d1ec23dc65019c8cc30428206bbef04441135679bcb51c31b12352a23f57&=&format=webp&quality=lossless&width=437&height=437">
 </p>
 <h1 align="center">Bots Under Construction & Algorithm Architects</h1>
 <p align="center">Bots Under Construction & Algorithm Architects is a community for technology enthusiasts. </p>
