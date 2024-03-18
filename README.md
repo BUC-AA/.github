@@ -1,5 +1,5 @@
 <p align="center">
-<img width="200" src="https://media.discordapp.net/attachments/1146406609094967337/1213118872161361971/image-modified.png?ex=65f44ffd&is=65e1dafd&hm=ef20d1ec23dc65019c8cc30428206bbef04441135679bcb51c31b12352a23f57&=&format=webp&quality=lossless&width=437&height=437">
+<img width="200" src="https://i.imgur.com/jPFDF4H.png">
 </p>
 <h1 align="center">Bots Under Construction & Algorithm Architects</h1>
 <p align="center">Bots Under Construction & Algorithm Architects is a community for technology enthusiasts. </p>
